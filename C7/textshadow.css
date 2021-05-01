@@ -1,0 +1,8 @@
+.first{
+    background-color: red;
+    position: static;
+    font-size: 30px;
+    text-shadow: blue 3px 3px;
+    text-align: center;
+    letter-spacing: 10px;
+}
