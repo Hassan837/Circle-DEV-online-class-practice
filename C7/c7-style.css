@@ -1,0 +1,29 @@
+.div-first{
+    background-color: red;
+    position: static;
+}
+
+.div-second{
+    background-color: green;
+    position:relative;
+    top: 10%;
+    left: 10%;
+}
+
+.div-third{
+    background-color: blue;
+    position:absolute;
+    top: 10%;
+}
+
+.div-fourth{
+    background-color: purple;
+    position:fixed;
+    top: 20%;
+}
+
+.div-fifth{
+    background-color: royalblue;
+    position:sticky;
+    top: 5%;
+}
