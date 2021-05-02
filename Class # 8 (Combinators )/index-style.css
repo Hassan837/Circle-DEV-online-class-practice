@@ -13,3 +13,9 @@
     color: blue;
     background-color: coral;
 }
+
+.second-div + div {
+    font-size: 30px;
+    color:black;
+    background-color: aqua;
+}
