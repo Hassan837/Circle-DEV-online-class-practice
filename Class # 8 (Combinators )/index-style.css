@@ -1,8 +1,4 @@
-/*div>p {
-    font-size: 30px;
-    color: blue;
-    background-color: coral;
-}*/
+
 
 .first-div >p  {
 
@@ -10,4 +6,10 @@
     color:crimson;
     background-color:darkgray;
     border: solid 2px green;
+}
+
+.second-div p {
+    font-size: 30px;
+    color: blue;
+    background-color: coral;
 }
