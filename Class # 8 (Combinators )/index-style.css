@@ -1,0 +1,13 @@
+div>p {
+    font-size: 30px;
+    color: blue;
+    background-color: coral;
+}
+
+div p {
+
+    font-size: 42px;
+    color:crimson;
+    background-color:darkgray;
+    border: solid 2px green;
+}
