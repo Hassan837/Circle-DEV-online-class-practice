@@ -1,1 +1,0 @@
-alert('this is External J.S')

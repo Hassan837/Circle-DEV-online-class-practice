@@ -1,1 +1,0 @@
-alert('this is inline J.S')
