@@ -1,1 +1,1 @@
-alert('this is inline J.S')
+alert('this is External J.S')
